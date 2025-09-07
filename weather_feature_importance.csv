@@ -1,0 +1,12 @@
+feature,importance
+apparent_temperature_c,0.9748499836845598
+precip_type,0.01805200504382315
+wind_speed_kmh,0.006284366273370419
+humidity,0.0007808137918156642
+formatted_date,1.0706681109286312e-05
+pressure_millibars,9.25779853679896e-06
+visibility_km,7.214472645605045e-06
+wind_bearing_degrees,2.3436750152116128e-06
+daily_summary,1.9316009747032104e-06
+summary,1.3769781493335653e-06
+loud_cover,0.0
